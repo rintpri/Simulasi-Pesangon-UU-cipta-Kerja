@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Pesangon UU Cipta Kerja",
+  "description": "Kalkulator resmi perhitungan uang pesangon, penghargaan masa kerja (UPMK), dan penggantian hak (UPH) berdasarkan UU Cipta Kerja & PP No. 35 Tahun 2021.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
